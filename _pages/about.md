@@ -28,8 +28,8 @@ latest_posts:
 ---
 
 Hi! I'm Seungwoo Han, a graduate student in Management Engineering at KAIST. I am currently focused on two research areas.
-  First, I examine how consumers process and respond to multimodal content in digital platforms, specifically analyzing how visual and textual information shapes consumer decisions and satisfaction.
-  Second, I investigate AI adoption in organizations, particularly how implementation affects both operational efficiency and equity in high-stakes public sector contexts.
+First, I examine how consumers process and respond to multimodal content in digital platforms, specifically analyzing how visual and textual information shapes consumer decisions and satisfaction.
+Second, I investigate AI adoption in organizations, particularly how implementation affects both operational efficiency and equity in high-stakes public sector contexts.
 
 I have published work on AI implementation in police departments and multimodal consumer behavior analysis, with papers accepted at ICIS 2025 and CIST 2024. My research leverages computational methods and publicly accessible datasets to address questions of both operational efficiency and social equity in technology adoption. Methodologically, I am interested in causal inference, machine learning, and multimodal analysis.
 
