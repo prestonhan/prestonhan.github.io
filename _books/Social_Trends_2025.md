@@ -1,11 +1,12 @@
 ---
 layout: book-review
 title: Social Trends 2025
+subtitle: Generative AI and Business Management
 author: Hongchul Shin, Sejun Yang, Doyoung Kim, Junhyung Yang, Myungjun Song, Hyogeun Jang, Minseok Koh, Seungwoo Han, Dongwook Seo, Mina Ji, Yunsu Jung, Sejin Kim, and Chanwoo Kim
 cover: assets/img/book_covers/Social_Trends_2025.png
 isbn: 9788924131901 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: classics crime historical-fiction mystery novels thriller
-tags: top-100
+categories: 
+tags:
 buy_link: https://product.kyobobook.co.kr/detail/S000213991648
 started: 
 finished: 
@@ -13,12 +14,8 @@ released: 2024
 date: 2024-03-01
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin eros sit amet ante aliquet, sit amet vulputate lectus mattis. Aenean ullamcorper pretium nunc, sed egestas lorem elementum id. Nulla id mi id neque ultrices egestas ut in urna. Sed ac ultricies nunc. Nam convallis placerat urna id egestas. Nulla porta, est interdum vestibulum venenatis, lorem odio laoreet sapien, in pulvinar tellus eros a dolor. Vivamus sapien justo, ullamcorper a mi eget, scelerisque euismod nunc. In augue augue, ultrices a ornare non, tincidunt quis justo. Donec sit amet consectetur eros. Nullam neque leo, tincidunt id ipsum ac, volutpat lobortis mi. Phasellus consequat ultricies arcu, eu semper ligula ultrices eget. Ut in fringilla elit, ac tincidunt nisi.
-
-Nunc commodo elit nec turpis feugiat consectetur. Nullam in nisi egestas, fermentum ligula hendrerit, euismod enim. Nulla eu hendrerit eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et velit ante. Vestibulum pretium vitae quam et sagittis. Proin eu nunc vel velit accumsan eleifend. Nulla facilisis, diam tempus imperdiet ultrices, massa ipsum consequat orci, sed efficitur eros mi a felis. Cras lobortis turpis sem, sed lobortis nunc ullamcorper tristique. Nam vehicula rhoncus ante, in faucibus sapien scelerisque et. Donec semper libero et tincidunt mattis. In vestibulum, nulla pretium dictum commodo, risus nulla vestibulum felis, at tincidunt massa mi in odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-Donec efficitur ultrices purus sit amet imperdiet. Nam consequat metus in erat sodales faucibus. Aliquam maximus fermentum nulla id finibus. Aliquam iaculis sed odio vel rutrum. Curabitur sed odio est. Praesent nec sollicitudin tortor. Praesent pharetra, turpis quis porttitor rhoncus, ante massa fringilla lacus, nec porttitor magna turpis vitae felis. Nullam tristique massa id odio imperdiet, nec sodales massa egestas. Proin nisi metus, euismod sed accumsan vitae, facilisis vel risus. Morbi suscipit auctor erat, nec viverra elit fringilla eu. Mauris congue, purus id tristique facilisis, felis nisi efficitur magna, eu consectetur augue sem vitae lacus. Aliquam erat volutpat. Cras at nibh ultricies, volutpat arcu vitae, dictum est. In ac dolor sagittis, egestas lectus et, semper nisl. Etiam consectetur purus vitae sapien porttitor auctor.
-
-Nulla sit amet venenatis odio. Suspendisse ac lacus quis augue mollis tempus vel in lorem. Donec augue turpis, eleifend nec nibh eu, elementum dictum metus. Proin ut est ligula. Etiam vehicula facilisis metus, sit amet consectetur risus ullamcorper porttitor. In congue nibh quis sollicitudin iaculis. Donec a mollis lorem, non mollis lacus. Nulla et leo ex. Aliquam erat volutpat. Nam sit amet tincidunt mauris. Vivamus vitae est sit amet nisi semper egestas. Donec in diam pharetra, commodo diam vitae, imperdiet ligula. Cras iaculis ac diam eget vehicula. Proin suscipit ante enim, quis vehicula mi porta bibendum. Aliquam a diam porttitor, sollicitudin justo vitae, tempor odio.
-
-Cras fermentum dignissim pretium. Donec quis turpis eu neque lacinia facilisis in sit amet nibh. Nulla non tortor ultricies, euismod est in, blandit nibh. Ut a neque metus. Sed convallis condimentum nibh quis finibus. Praesent aliquam sem iaculis eros maximus accumsan. Nulla venenatis mauris id aliquet maximus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at enim vitae ex porttitor vestibulum sed eget nibh. Suspendisse accumsan feugiat quam eget ultricies.
+This chapter explores how generative AI is transforming business operations and corporate strategy. Generative AI refers to artificial intelligence systems that create new content based on learned patterns, including text, images, and other media through technologies like deep neural networks, natural language processing, and machine learning.
+The chapter traces the evolution from 1960s expert systems through the development of deep learning in the 2010s, culminating in large language models like GPT-3 with 175 billion parameters. It compares major models including ChatGPT, Google's Gemini, and Anthropic's Claude, highlighting their distinct approaches to safety and reliability.
+Business applications span multiple domains. Companies leverage generative AI for personalized customer services, accelerated product development, optimized marketing campaigns, and enhanced operational efficiency. Case studies demonstrate implementations across industries including Nike's AI-driven shoe design, Coca-Cola's customized advertising campaigns, Ford's predictive maintenance systems, and JP Morgan's personalized investment strategies.
+However, the chapter acknowledges significant limitations including technical constraints requiring massive datasets and computing resources, ethical concerns around privacy and copyright infringement, risks of misinformation and algorithmic bias, substantial infrastructure costs, and evolving legal frameworks. Notable examples include MIT's facial recognition bias and ongoing copyright litigation between content creators and AI companies.
+The chapter concludes that while generative AI offers transformative potential for business innovation, successful implementation requires balancing technological advancement with ethical considerations and regulatory compliance.

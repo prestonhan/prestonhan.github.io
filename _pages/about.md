@@ -32,4 +32,4 @@ I have published work on AI implementation in police departments and multimodal 
 
 My interest in Information Systems grew from observing how technology mediates decisions in everyday life. As a consumer, I rely on algorithmically curated information that shapes my choices in ways I cannot fully see or verify. This curiosity deepened when I recognized that similar systems operate in high-stakes organizational contexts where they affect not just efficiency but also fairness and equity across communities. I find it compelling to study how information technologies influence outcomes in settings where algorithmic decisions have real consequences for both individuals and society.
 
-I completed my undergraduate degree in electrical engineering and computer science at KAIST, and served as an English interpreter and translator in the Republic of Korea Air Force. I am currently applying to PhD programs in Information Systems.
+I completed my undergraduate degree in electrical engineering and computer science at KAIST, and served as an English interpreter and translator in the Republic of Korea Air Force. I am currently applying to Ph.D. programs in Information Systems.
