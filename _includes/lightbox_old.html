@@ -1,0 +1,29 @@
+{% if site.lightbox2 %}
+<!-- Lightbox2 CSS -->
+<link
+  rel="stylesheet"
+  href="{{ site.lightbox2.url.css | replace: '{{version}}', site.lightbox2.version }}"
+  integrity="{{ site.lightbox2.integrity.css }}"
+  crossorigin="anonymous"
+/>
+
+<!-- Lightbox2 JS -->
+<script
+  src="{{ site.lightbox2.url.js | replace: '{{version}}', site.lightbox2.version }}"
+  integrity="{{ site.lightbox2.integrity.js }}"
+  crossorigin="anonymous"
+></script>
+{% endif %} {% if site.photoswipe-lightbox %}
+<!-- PhotoSwipe Lightbox (ESM) -->
+<script type="module">
+  import PhotoSwipeLightbox from "{{ site.photoswipe-lightbox.url.js | replace: '{{version}}', site.photoswipe-lightbox.version }}";
+
+  const lightbox = new PhotoSwipeLightbox({
+    gallery: ".pswp-gallery",
+    children: "a",
+    pswpModule: () => import("https://cdn.jsdelivr.net/npm/photoswipe@{{ site.photoswipe-lightbox.version }}/dist/photoswipe.esm.min.js"),
+  });
+
+  lightbox.init();
+</script>
+{% endif %}
