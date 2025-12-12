@@ -5,11 +5,11 @@ subtitle: "Medical School Quota Expansion Conflict: A Behavioral Economics Persp
 author: Hongchul Shin, Sejun Yang, Seungwoo Han, Hyunmin Kang, Minseok Koh, Myungjun Song, and Yunsu Jung
 cover: assets/img/book_covers/Social_Trends_2026.png
 isbn: 9788924170320 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: 
+categories:
 tags: top-100
 buy_link: https://product.kyobobook.co.kr/detail/S000217427217
-started: 
-finished: 
+started:
+finished:
 released: 2025
 date: 2025-08-25
 ---

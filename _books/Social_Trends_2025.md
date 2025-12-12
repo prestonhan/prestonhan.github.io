@@ -5,11 +5,11 @@ subtitle: Generative AI and Business Management
 author: Hongchul Shin, Sejun Yang, Doyoung Kim, Junhyung Yang, Myungjun Song, Hyogeun Jang, Minseok Koh, Seungwoo Han, Dongwook Seo, Mina Ji, Yunsu Jung, Sejin Kim, and Chanwoo Kim
 cover: assets/img/book_covers/Social_Trends_2025.png
 isbn: 9788924131901 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: 
+categories:
 tags:
 buy_link: https://product.kyobobook.co.kr/detail/S000213991648
-started: 
-finished: 
+started:
+finished:
 released: 2024
 date: 2024-03-01
 ---
