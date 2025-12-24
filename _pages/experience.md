@@ -56,6 +56,36 @@ _styles: |
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
 
+  <!-- ICIS 2025 presentation -->
+<!-- ICIS 2025 presentation -->
+ <div class="col">
+  <div class="card exp-card h-100">
+    <img
+    src="{{ '/assets/img/experience/ICIS_2025_presentation.png' | relative_url }}"
+    alt="ICIS 2025 presentation"
+    class="exp-img"
+    >
+    <div class="card-body">
+     <div class="exp-title">ICIS 2025 Presentation</div>
+     <div class="exp-meta">Nashville, TN · 2025 · Presenter</div>
+     <div class="exp-tags">
+        <span>#AI_adoption</span>
+        <span>#police_technology</span>
+        <span>#algorithmic_bias</span>
+        <span>#ICIS_2025</span>
+     </div>
+    </div>
+    <div class="card-footer bg-white border-0">
+      <a
+        href="{{ '/research/icis2025/' | relative_url }}"
+        class="btn btn-outline-dark exp-btn"
+      >
+        View Abstract
+      </a>
+    </div>
+  </div>
+ </div>
+
   <!-- CIST 2024 presentation -->
   <div class="col">
     <div class="card exp-card h-100">
@@ -96,9 +126,10 @@ _styles: |
         <div class="exp-title">Intel ISEF 2015 Presentation</div>
         <div class="exp-meta">Pittsburgh, PA · 2015 · Finalist</div>
         <div class="exp-tags">
-          <span>#Intel_ISEF</span>
-          <span>#science_fair</span>
+          <span>#mountain_safety</span>
+          <span>#heart_rate_algorithm</span>
           <span>#early_research_experience</span>
+          <span>#Intel_ISEF</span>
         </div>
       </div>
     </div>
