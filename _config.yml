@@ -7,7 +7,7 @@ first_name: Seungwoo
 middle_name:
 last_name: Han
 contact_note: > # the ">" symbol means to ignore newlines until "footer_text:"
-description: Ph.D. applicant in Information Systems. My research studies how AI and IT capabilities shape organizational outcomes, with applications to law enforcement, digital platforms, and multimodal user-generated content.
+description: Ph.D. Student in Information Systems at the Kelley School of Business, Indiana University. My research studies how AI and IT capabilities shape organizational outcomes, with applications to law enforcement, digital platforms, and multimodal user-generated content.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

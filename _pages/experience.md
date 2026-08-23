@@ -127,7 +127,7 @@ _styles: |
         <div class="exp-meta">Pittsburgh, PA · 2015 · Finalist</div>
         <div class="exp-tags">
           <span>#mountain_safety</span>
-          <span>#heart_rate_algorithm</span>
+          <span>#heart_rate_algorithm</span>    
           <span>#early_research_experience</span>
           <span>#Intel_ISEF</span>
         </div>

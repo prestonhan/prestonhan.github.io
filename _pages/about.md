@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. applicant in Information Systems
+subtitle: Ph.D. Student in Information Systems, Kelley School of Business, Indiana University
 
 profile:
   align: right
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Seungwoo Han, a graduate student in Management Engineering at KAIST. I am currently focused on two research areas.
+Hi! I'm Seungwoo Han, a Ph.D. student in the Operations and Decisions Technologies area (Information Systems track) at the Kelley School of Business, Indiana University, starting August 2026. I completed my graduate studies in Management Engineering at KAIST beforehand. I am currently focused on two research areas.
 First, I examine how consumers process and respond to multimodal content in digital platforms, specifically analyzing how visual and textual information shapes consumer decisions and satisfaction.
 Second, I investigate AI adoption in organizations, particularly how implementation affects both operational efficiency and equity in high-stakes public sector contexts.
 
@@ -32,4 +32,4 @@ I have published work on AI implementation in police departments and multimodal 
 
 My interest in Information Systems grew from observing how technology mediates decisions in everyday life. As a consumer, I rely on algorithmically curated information that shapes my choices in ways I cannot fully see or verify. This curiosity deepened when I recognized that similar systems operate in high-stakes organizational contexts where they affect not just efficiency but also fairness and equity across communities. I find it compelling to study how information technologies influence outcomes in settings where algorithmic decisions have real consequences for both individuals and society.
 
-I completed my undergraduate degree in electrical engineering and computer science at KAIST, and served as an English interpreter and translator in the Republic of Korea Air Force. I am currently applying to Ph.D. programs in Information Systems.
+I completed my undergraduate degree in electrical engineering and computer science at KAIST, and served as an English interpreter and translator in the Republic of Korea Air Force. I am now a Ph.D. student in Information Systems at the Kelley School of Business, Indiana University.
