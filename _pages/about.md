@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Seungwoo Han, a Ph.D. student in the Operations and Decisions Technologies area (Information Systems track) at the Kelley School of Business, Indiana University, starting August 2026. I completed my graduate studies in Management Engineering at KAIST beforehand. I am currently focused on two research areas.
+Hi! I’m Seungwoo Han, a Ph.D. student in Information Systems at Indiana University’s Kelley School of Business. Before joining Kelley, I earned my master’s degree in Management Engineering from KAIST. My research currently focuses on two areas.
 First, I examine how consumers process and respond to multimodal content in digital platforms, specifically analyzing how visual and textual information shapes consumer decisions and satisfaction.
 Second, I investigate AI adoption in organizations, particularly how implementation affects both operational efficiency and equity in high-stakes public sector contexts.
 
